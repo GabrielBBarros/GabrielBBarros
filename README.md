@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi sou Gabriel!
 
 <!--
 **GabrielBBarros/GabrielBBarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
