@@ -1,4 +1,4 @@
-### Oi sou Gabriel!
+### Olá sou Gabriel!
 
 - 🇧🇷 Nacionalidade brasileira.
 - 🔭 Faço pesquisas no ramo mobile.
