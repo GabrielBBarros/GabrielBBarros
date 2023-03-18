@@ -8,3 +8,4 @@
 - 😃 Gosto de trabalhar com front-end.
 - 🌎 Amo aprender idiomas 🇮🇹 🇬🇧 🇪🇸 .
 
+![Snake animation](https://github.com/{GabrielBBarros/GabrielBBarros/blob/output/github-contribution-grid-snake.svg)
