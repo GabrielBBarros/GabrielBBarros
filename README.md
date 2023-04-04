@@ -6,5 +6,5 @@
 - 🔭 Faço pesquisas no ramo mobile;
 - 🌱 Estou aprendendo Java e Python;
 - 😃 Gosto de trabalhar com front-end;
-- 🌐 Adoro aprender novos idiomas IT ES US
+- 🌐 Adoro aprender novos idiomas 🇮🇹 🇬🇧 🇪🇸
 
