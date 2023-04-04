@@ -4,7 +4,7 @@
 
 
 - 🔭 Faço pesquisas no ramo mobile;
-- 🌱 Estou aprendendo Java e Python;
+- 🌱 Estou aprendendo Java, JavaScript e Python;
 - 😃 Gosto de trabalhar com front-end;
 - 🌐 Adoro aprender novos idiomas.
 
