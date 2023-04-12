@@ -9,6 +9,6 @@
 - 🌐 Adoro aprender novos idiomas 🇮🇹 🇺🇸 🇪🇸 
                                                                                   
                                                                                      
-   ![giphy](https://user-images.githubusercontent.com/92558878/231460520-53cb81d0-daed-4065-8e6b-458a963e6e63.gif =250x250)      
+   ![giphy](https://user-images.githubusercontent.com/92558878/231460520-53cb81d0-daed-4065-8e6b-458a963e6e63.gif | width=100)      
 
 
