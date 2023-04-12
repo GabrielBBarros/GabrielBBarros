@@ -8,7 +8,7 @@
 - 😃 Gosto de trabalhar com front-end;
 - 🌐 Adoro aprender novos idiomas 🇮🇹 🇺🇸 🇪🇸 
                                                                                   
- <img src="https://your-image-url.type](https://user-images.githubusercontent.com/92558878/231460520-53cb81d0-daed-4065-8e6b-458a963e6e63.gif" width="100" height="100">                                                                             
+ <img src="https://user-images.githubusercontent.com/92558878/231460520-53cb81d0-daed-4065-8e6b-458a963e6e63.gif" width="100" height="100">                                                                             
    
 
 
