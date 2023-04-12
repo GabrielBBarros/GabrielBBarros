@@ -8,7 +8,7 @@
 - 😃 Gosto de trabalhar com front-end;
 - 🌐 Adoro aprender novos idiomas 🇮🇹 🇺🇸 🇪🇸 
                                                                                   
-<img src="https://media.baamboozle.com/uploads/images/73330/1658789582_11674_gif-url.gif" width="80" height="80">                                                                           
+<img src="https://media.baamboozle.com/uploads/images/73330/1658789582_11674_gif-url.gif" width="120" height="80">                                                                           
    
 
 
