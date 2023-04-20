@@ -1,6 +1,6 @@
 ###                                                                   Olá, sou Gabriel!
 
-<div style="display: flex;">
+<div style="display: flex; height: 200px">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielBBarros&show_icons=true&theme=cobalt" style="flex: 1;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBBarros&hide_progress=true&theme=cobalt" style="flex: 1;">
 </div>
