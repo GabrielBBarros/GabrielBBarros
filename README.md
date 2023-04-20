@@ -1,5 +1,5 @@
 ###                                                                   Olá, sou Gabriel!
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBBarros&show_icons=true&theme=cobalt)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBBarros&langs_count=8&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBBarros&show_icons=true&theme=cobalt)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBBarros&hide_progress=true&theme=cobalt)]
 
 
 - 🔭 Faço pesquisas no ramo mobile;                                                                                       
