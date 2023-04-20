@@ -1,6 +1,10 @@
 ###                                                                   Olá, sou Gabriel!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBBarros&show_icons=true&height=300&theme=cobalt)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBBarros&hide_progress=true&height=300&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielBBarros&show_icons=true&theme=cobalt" style="flex: 1;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBBarros&hide_progress=true&theme=cobalt" style="flex: 1;">
+</div>
+
 
 - 🔭 Faço pesquisas no ramo mobile;                                                                                       
 - 🌱 Estou aprendendo Java, JavaScript e Python;
