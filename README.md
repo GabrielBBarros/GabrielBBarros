@@ -9,5 +9,5 @@
                                                                                   
 <img src="https://media.baamboozle.com/uploads/images/73330/1658789582_11674_gif-url.gif" width="120" height="80">                                                                           
    
-
+![Snake animation](https://github.com/{{your_username}}/GabrielBBarros/blob/output/github-contribution-grid-snake.svg)
 
