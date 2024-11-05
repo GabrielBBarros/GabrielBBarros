@@ -1,5 +1,9 @@
 ###                                                                   Olá, sou Gabriel!
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBBarros&show_icons=true&theme=cobalt)!
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielBBarros&theme=gotham) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielBBarros&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielBBarros&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielBBarros&theme=gotham&utcOffset=8)
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,mysql,php,java,react)](https://skillicons.dev)
