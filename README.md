@@ -4,7 +4,10 @@
 ## Some Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielBBarros&theme=gotham)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielBBarros&theme=gotham)
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielBBarros&theme=gotham&utcOffset=8)
+<div style="text-align: center;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielBBarros&theme=gotham&utcOffset=8" alt="Productive Time">
+</div>
+
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,mysql,php,java,react)](https://skillicons.dev)
