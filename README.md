@@ -6,4 +6,4 @@
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,mysql,php,java,react)](https://skillicons.dev)
 
 
-![snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/GabrielBBarros/GabrielBBarros/blob/output/github-contribution-grid-snake-dark.svg)
