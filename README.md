@@ -14,8 +14,8 @@
     <img src="https://skillicons.dev/icons?i=py,js,ts,htmx,mysql,php,java,react" />
   </a>
 </p>
-</div>
-<div align="justify">
+
+
   
 ## Follow me
 
@@ -26,8 +26,8 @@
 <a href="https://www.researchgate.net/profile/Gabriel-Barros-34"><img src = "https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"> </a>
 
 <a href="https://wa.me/5515981245960"><img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" > </a>
-</div>
-<div align="center">
+
+
   
 ## Productive Time
 
