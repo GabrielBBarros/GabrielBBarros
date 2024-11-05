@@ -15,6 +15,11 @@
   </a>
 </p>
 
+## Follow me
+<a href="https://www.linkedin.com/in/gabriel-bevilacqua-barros-14039819b/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
+
+
+
 ## Productive Time
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielBBarros&theme=gotham&utcOffset=8)
 
