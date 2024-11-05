@@ -6,7 +6,7 @@
 
 ## Some Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielBBarros&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielBBarros&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielBBarros&theme=gotham)
 
 ## Languages
 <p align="center">
