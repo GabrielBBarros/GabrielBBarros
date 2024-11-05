@@ -7,3 +7,4 @@
 
 
 
+![Snake animation - Dark](https://github.com/GabrielBBarros/GabrielBBarros/blob/output/dist/github-snake-dark.svg)
