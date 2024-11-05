@@ -13,7 +13,8 @@
     <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,mysql,php,java,react" />
   </a>
 </p>
-## Tempo produtivo
+
+## Productive Time
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielBBarros&theme=gotham&utcOffset=8)
 
 ## A famigerada
