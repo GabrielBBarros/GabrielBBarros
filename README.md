@@ -5,5 +5,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,mysql,php,java,react)](https://skillicons.dev)
 
-![Snake animation](https://github.com/GabrielBBarros/GabrielBBarros/blob/output/github-contribution-grid-snake.svg)
+- Dark Theme: [View Dark Theme Animation](https://raw.githubusercontent.com/<github_user>/<repository>/output/dist/github-contribution-grid-snake-dark.svg)
 
