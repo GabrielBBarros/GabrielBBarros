@@ -1,5 +1,5 @@
 
-![Header](./github-header-image(1).png)
+![Header](./github-header-image(2).png)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielBBarros&theme=gotham) 
 
