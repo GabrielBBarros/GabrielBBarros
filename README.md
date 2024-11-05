@@ -1,4 +1,4 @@
-
+<div align="center">
 ![Header](./github-header-image(2).png)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielBBarros&theme=gotham) 
@@ -18,3 +18,4 @@
 
 ## A famigerada
 ![snake animation](https://github.com/GabrielBBarros/GabrielBBarros/blob/output/github-contribution-grid-snake-dark.svg)
+</div>
