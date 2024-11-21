@@ -4,7 +4,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaBevilacqua&theme=gotham) 
 
-## Some Stats
+## Languages and Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GaBevilacqua&theme=gotham) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GaBevilacqua&theme=gotham&utcOffset=8)
 
