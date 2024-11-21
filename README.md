@@ -35,7 +35,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GaBevilacqua&theme=gotham&utcOffset=8) 
 
 
-## A famigerada
+## The most famous GitHub snake
 
 ![snake animation](https://github.com/GabrielBBarros/GabrielBBarros/blob/output/github-contribution-grid-snake-dark.svg)
 
