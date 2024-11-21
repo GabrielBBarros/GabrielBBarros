@@ -6,7 +6,7 @@
 
 ## Languages and Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GaBevilacqua&theme=gotham) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GaBevilacqua&theme=gotham&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GaBevilacqua&theme=gotham)
 
 
 ## Languages
@@ -30,10 +30,10 @@
 
 
   
-## Productive Time and Stats
+## Productive Time
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GaBevilacqua&theme=gotham&utcOffset=8) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GaBevilacqua&theme=gotham)
+
 
 ## A famigerada
 
