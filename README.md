@@ -37,6 +37,5 @@
 
 ![snake animation](https://github.com/GabrielBBarros/GabrielBBarros/blob/output/github-contribution-grid-snake-dark.svg)
 
-## Honorable mention
-![](screenshot-2020-12-02-at-14.45.52-1024x382.jpg)
+
 </div>
