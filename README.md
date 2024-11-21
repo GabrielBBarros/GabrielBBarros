@@ -5,8 +5,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielBBarros&theme=gotham) 
 
 ## Some Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielBBarros&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielBBarros&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GaBevilacqua&theme=gotham) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GaBevilacqua&theme=gotham&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GaBevilacqua&theme=gotham)
 
 ## Languages
 <p align="center">
