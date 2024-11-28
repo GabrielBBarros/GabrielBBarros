@@ -4,7 +4,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaBevilacqua&theme=gotham) 
 
-## Languages and Stats
+## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GaBevilacqua&theme=gotham) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GaBevilacqua&theme=gotham)
 
