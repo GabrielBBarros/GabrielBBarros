@@ -39,5 +39,4 @@
 
 ![snake animation](https://github.com/GaBevilacqua/GaBevilacqua/blob/output/github-contribution-grid-snake-dark.svg)
 
-
 </div>
